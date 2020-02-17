@@ -4,3 +4,9 @@
 /home/nastya/RiderProjects/Lesson1/ConsoleApplication1/obj/Debug/ConsoleApplication1.csproj.CoreCompileInputs.cache
 /home/nastya/RiderProjects/Lesson1/ConsoleApplication1/obj/Debug/ConsoleApplication1.exe
 /home/nastya/RiderProjects/Lesson1/ConsoleApplication1/obj/Debug/ConsoleApplication1.pdb
+/home/nastya/RiderProjects/C-/ConsoleApplication1/bin/Debug/ConsoleApplication1.exe
+/home/nastya/RiderProjects/C-/ConsoleApplication1/bin/Debug/ConsoleApplication1.pdb
+/home/nastya/RiderProjects/C-/ConsoleApplication1/obj/Debug/ConsoleApplication1.csprojAssemblyReference.cache
+/home/nastya/RiderProjects/C-/ConsoleApplication1/obj/Debug/ConsoleApplication1.csproj.CoreCompileInputs.cache
+/home/nastya/RiderProjects/C-/ConsoleApplication1/obj/Debug/ConsoleApplication1.exe
+/home/nastya/RiderProjects/C-/ConsoleApplication1/obj/Debug/ConsoleApplication1.pdb
