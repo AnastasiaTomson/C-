@@ -40,7 +40,16 @@ namespace ConsoleApplication1
                     catch (Exception){ continue; }
                 }
 
-                if (catName.Any(wordByte => wordByte > 127))
+                bool any = false;
+                foreach (var wordByte in catName)
+                {
+                    if (wordByte > 127)
+                    {
+                        any = true;
+                        break;
+                    }
+                }
+                if (any)
                 {
                     isRu = false;
                 }
